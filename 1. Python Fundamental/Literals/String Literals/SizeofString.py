@@ -1,7 +1,7 @@
 """ String Literals """
 # Size of String
 
-'''Note: len() function in Python is a built-in function used to determine the length of an object. It returns the number of items in a given object such as a string, list, tuple, dictionary, set, or other collection types.'''
+'''Note: len() function in Python is a built-in function used to determine the length of an object.'''
 
 # Single line String
 a='\\'
