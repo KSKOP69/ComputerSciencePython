@@ -24,6 +24,6 @@ print(a)
 a=25%2
 print(a)
 
-# Exponential
+# Exponential (**)
 a=2**10
 print(a)
