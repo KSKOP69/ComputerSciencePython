@@ -1,9 +1,8 @@
 # Computer Science (Python)
 
-Welcome to **The Computer Science(Python) Course !**
+## Welcome to The Computer Science(Python) Course !
 
-This course will take you from a Beginner to an Advanced Python Programmer. The repository contains all the source code, problem sets, and additional resources to supplement your learning.
-This is a part of NCERT Class 11 Python Couse. This is made to help you to learn python easily.
+This course is designed to take you from a Beginner to an Advanced Python Programmer. The repository includes all source code, problem sets, and additional resources to support your learning journey. It is part of the NCERT Class 11 Python course and aims to make learning Python easy and accessible for you.
 
 ## Additional Resources
 
